@@ -12,7 +12,7 @@ ___
 <a href="https://github.com/hariaot99/hariaot99">
   <img align="left" height="140em" src = "https://github-readme-stats.vercel.app/api?username=hariaot99&show_icons=true&theme=merko" />
 </a>
-<a href="https://github.com/hariaot99/hariaot99">
-  <img  height="140em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hariaot99&theme=merko&layout=compact" />
+<a href="https://github.com/hariaot/hariaot">
+  <img  height="140em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hariaot&theme=merko&layout=compact" />
 </a>
 
