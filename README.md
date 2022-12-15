@@ -10,9 +10,9 @@ ___
 - 📫 How to reach me: haria.othon@unesp.br / IG: haria.ot  
 ___
 <a href="https://github.com/hariaot99/hariaot99">
-  <img align="left" height="160em" src = "https://github-readme-stats.vercel.app/api?username=hariaot99&show_icons=true&theme=merko" />
+  <img align="left" height="140em" src = "https://github-readme-stats.vercel.app/api?username=hariaot99&show_icons=true&theme=merko" />
 </a>
 <a href="https://github.com/hariaot99/hariaot99">
-  <img  height="160em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hariaot99&theme=merko&layout=compact" />
+  <img  height="140em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hariaot99&theme=merko&layout=compact" />
 </a>
 
