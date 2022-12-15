@@ -1,17 +1,18 @@
-### Hi there 👋
-### My name is Hariã
+___
 
-<!--
-**hariaot99/hariaot99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, I'm Haria Othon :)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working as: Back-end Develooper.
+- 👨‍🎓 I'm currently studying on: FCT-UNESP.
+- 🌱 I’m currently learning: NodeJs, TypeScript, MySql and Linux Admnistration.
+- 📫 How to reach me: haria.othon@unesp.br / IG: haria.ot  
+___
+<a href="https://github.com/hariaot99/hariaot99">
+  <img align="left" height="160em" src = "https://github-readme-stats.vercel.app/api?username=hariaot99&show_icons=true&theme=merko" />
+</a>
+<a href="https://github.com/hariaot99/hariaot99">
+  <img  height="160em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hariaot99&theme=merko&layout=compact" />
+</a>
+
