@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hariã Othon</h1>
 <h3 align="center">A passionate Computer Science Stundent and Back-end developer from Brazil</h3>
 
-- 🔭 I’m currently working on **ASA - Backend for an Finance Administration system**
+- 🔭 I’m currently working on **ASA - Backend for a Finance Administration System**
 
 - 🌱 I’m currently learning **Linux Administration, MySQL, NodeJs and Java Spring**
 
