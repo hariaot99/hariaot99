@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **haria.othon@unesp.br**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
