@@ -18,3 +18,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hariaot99&show_icons=true&locale=en" alt="hariaot99" width="400" /></p>
 
+## My setup
+Home Computer - Intel i7 4790k, 32gb RAM, 1tb ssd, EVGA Nvdia gtx 960. Used as my test and gaming setup
+
+Notebook - Dell xps 13 9310, Intel i7 1185G7, 15gb RAM, 1tb ssd, Intel Iris Xe Graphics. Used as my studies setup, for dev and school
+
