@@ -20,6 +20,7 @@
 
 
 
+
 ## My setup
 Home Computer with dual boot Windows 10/Arch linux- Intel i7 4790k, 32gb RAM, 1tb ssd, EVGA Nvdia gtx 960. Used as my test and gaming setup
 
