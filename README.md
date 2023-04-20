@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Hariã Othon</h1>
 <h3 align="center">A passionate Computer Science Stundent and Back-end developer from Brazil</h3>
 
-- 🔭 I’m currently working on **ASA - Backend for a Finance Administration System**
+- 🔭 I’m currently working in **Eventials**
 
-- 🌱 I’m currently learning **Linux Administration, MySQL, NodeJs and Java Spring**
+- 🌱 I’m currently learning **Python, Django, Postgresql, Docker**
 
 - 📫 How to reach me **haria.othon@unesp.br**
 
@@ -17,6 +17,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hariaot99&show_icons=true&locale=en&layout=compact" alt="hariaot99" width="400"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hariaot99&show_icons=true&locale=en" alt="hariaot99" width="400" /></p>
+
+
 
 ## My setup
 Home Computer with dual boot Windows 10/Arch linux- Intel i7 4790k, 32gb RAM, 1tb ssd, EVGA Nvdia gtx 960. Used as my test and gaming setup
