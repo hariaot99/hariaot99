@@ -16,12 +16,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hariaot99&show_icons=true&locale=en&layout=compact" alt="hariaot99" width="350"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hariaot99&show_icons=true&locale=en" alt="hariaot99" width="350" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hariaot99&show_icons=true&locale=en" alt="hariaot99" width="350" />
+</p>
 
 
-
-
-## My setup
+<h3 align="left"> My setup </h3>
 Home Computer with dual boot Windows 10/Arch linux- Intel i7 4790k, 32gb RAM, 1tb ssd, EVGA Nvdia gtx 960. Used as my test and gaming setup
 
 Notebook with Windows 11 and Arch linux on WSL2 - Dell xps 13 9310, Intel i7 1185G7, 16gb RAM, 1tb ssd, Intel Iris Xe Graphics. Used as my studies setup, for dev and school
