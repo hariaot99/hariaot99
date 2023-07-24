@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working in **Eventials**
 
-- 🌱 I’m currently learning **Python, Django, Postgresql, Docker**
+- 🌱 I’m currently learning **Python, Django, Postgresql, Docker, Golang and linux Admnistration**
 
 - 📫 How to reach me **haria.othon@unesp.br**
 
