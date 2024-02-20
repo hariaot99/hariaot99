@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hariã Othon</h1>
 <h3 align="center">A passionate Computer Science Stundent and Back-end developer from Brazil</h3>
 
-- 👨‍💼 I’m currently working at **Eventials**
+- 👨‍💼 I’m currently working on **Websockets and REST API's**
 
 - 🌱 I’m currently learning **Python, Django, Postgresql, Docker, Golang and linux Admnistration**
 
